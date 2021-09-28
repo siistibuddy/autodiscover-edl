@@ -1,1 +1,1 @@
-# autodiscover-edl
+autodiscover.*
